@@ -15,7 +15,7 @@
 
 # 1.浏览器
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NzNlMzI4MDQ5MzQzYjk0OWEyNTA2M2Q4ZTkxM2RhNDVfVk9RV2lFWkNjUlZsdU56eWlzRm90UjEzS0pqeVhORUdfVG9rZW46QjFJTmJ0Uklob0ozVG54MG1pQmNZYUc3bmNiXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![f477314a-e6cf-461d-839a-620f3ed5eead](https://raw.githubusercontent.com/Senyu2333/pic/master/f477314a-e6cf-461d-839a-620f3ed5eead.png)
 
 你写的所有前端代码，最终都要“登台表演”，而这个舞台就是**浏览器**。 一个好的浏览器，不仅能展示你的成果，还能成为你学习、调试的得力助手。
 
@@ -33,7 +33,7 @@
 
 ## 📝 代码编辑器（Code Editor）——**VSCode**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NTQ5MmQxOTMzMGY2YzE0ZWRkOWZhYWI5NWIxZjg4NDNfeERLRFFoVWtibXQxd2dITWNBNDRDOTh1ZGFsSFN2QjZfVG9rZW46UGdlYmJRM2kyb00zUld4ZzBac2M4b1lRbm9jXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![038d4b4b-2dda-47fb-b1de-1b2233ec626a](https://raw.githubusercontent.com/Senyu2333/pic/master/038d4b4b-2dda-47fb-b1de-1b2233ec626a.png)
 
 - 就像一本轻便的笔记本，打开就能写。
 - 特点：启动快、占资源少、扩展性强。
@@ -43,7 +43,7 @@
 
 ## 💻 IDE（Integrated Development Environment，集成开发环境）——**WebStorm**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NjUxOTYyYzk1NGRkYjM5MmQwZjYzNTgyNTdiYzUyMTFfSU5Qb0l6bnAyZ3h4YndQa1dIRElIckRMNVZFWXZmRnpfVG9rZW46S3ZQTmJwenlqb29KRGd4NkJFemMyQVRFbjJmXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![11f9055a-d20a-4ca8-bd7f-4ac636f14b52](https://raw.githubusercontent.com/Senyu2333/pic/master/11f9055a-d20a-4ca8-bd7f-4ac636f14b52.png)
 
 - 就像一张配齐工具的豪华办公桌。除了编辑代码，还集成了调试器、版本控制、数据库工具、构建工具。
 - 特点：功能强大、智能提示更精准，但体量大、资源消耗多。
@@ -60,13 +60,13 @@
 
 下载：https://nodejs.org/zh-cn/download
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MWM2MTA2YzE2MGU3MmE5YmM4MWY2YzMyMDNhNDNlOTZfbmZLa1pQaXNqNXpxWkNMSnJvT3FGcGZrWjRhM2tUTkhfVG9rZW46U2NId2JLZVFOb2drWmt4MDVNZ2NqZjdDbmd4XzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![65339a87-6c6d-47b4-bfb0-50f9ac66d225](https://raw.githubusercontent.com/Senyu2333/pic/master/65339a87-6c6d-47b4-bfb0-50f9ac66d225.png)
 
 可以参考[Node.js安装及环境配置超详细教程【Windows系统】_windows 安装nodejs-CSDN博客](https://blog.csdn.net/Nicolecocol/article/details/136788200)
 
 # 3.Github
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGJlY2Y4MjcwNjM5YjBiMjdjY2VkNjA5NDQ1NjAwZGVfN0JoelRkYmVpTUlMbnh3THZGVkhvMXBhem02a2pGU2NfVG9rZW46UjdxMmI4YUVSb0lYZmR4eVZaSWNqWFRzbjVmXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![000b0758-b3a9-414d-90dd-a3328542d527](C:\Users\12436\OneDrive\Desktop\lesson0\000b0758-b3a9-414d-90dd-a3328542d527.png)
 
 **GitHub** **是全球最大的代码托管平台**，程序员们写的项目、笔记、库文件都可以放在这里。 我们后续的 **课件和作业也会统一上传到 GitHub**，方便大家查看和管理。 它基于 **Git 版本控制**，功能有点像“云盘”，但远不止于此 —— **不仅能保存代码，还支持多人协作、版本回滚和开源分享**。
 
@@ -102,7 +102,7 @@
 
 ## 💡 什么是 Markdown？
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Yzc4Mjk0M2JmOTBhYTk0MmU0ZDI1ZWUxM2IxYWFkZjVfZkI2aklsTHhPS0RVaEdXUjVsTVE1WXJiUU50cE1GSURfVG9rZW46TVFWUWJDNEVwb3Q5V0h4bVZRb2NscnFUbkNlXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![6dbb5606-6d50-4d9d-aba1-518be40086f7](https://raw.githubusercontent.com/Senyu2333/pic/master/6dbb5606-6d50-4d9d-aba1-518be40086f7.png)
 
 - Markdown 是一种 **轻量级标记语言**。
 - 用几个简单的符号（`#`、`*`、`-` 等）就能给文字加上格式。
@@ -163,7 +163,7 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 举个例子，这是React库的中文文档，包括了该库的安装配置以及功能语法。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NjFmYjlhNTk4ZDQzYWZlNzdkZTliZTY2YmRmYjkxMjVfMHYxdXJ2ZkVmRTRySXk5RXdsenJVUVRXSTdSWlpwaHlfVG9rZW46S3hIRmIxNFpSb0tFY054VVBBT2MydXlqbkViXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![f636ea8a-3d9e-47fa-b813-df4c089aaa15](https://raw.githubusercontent.com/Senyu2333/pic/master/f636ea8a-3d9e-47fa-b813-df4c089aaa15.png)
 
 官方文档（Docs/API）是最权威的答案。看得懂文档，你才会有提升。在后期学习过程中，我们需要接触到vue/react，需要查看官方文档去进行使用。当然，一些UI组件库我们也需要会查文档写代码。
 
@@ -179,7 +179,7 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 这时候就可以整理报错信息 + 自己尝试过的方法发给学长学姐帮忙，最重要的一点是**截图**，而不是糊糊的拍照。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NzFiOGExZTM0YjVhMDU3Njg4YWRhZWFlNDUyMTBkOTRfb1RvQ2l2a0RXOFB5Z3QxZnQ3TEJxZWtKTnd2emlKVzVfVG9rZW46RU9nTGJGN09pb3E3Rjh4bGNNb2NWVFdvbmtjXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
+![afa56b03-5c9d-4b21-8dc1-c4617bc29290](https://raw.githubusercontent.com/Senyu2333/pic/master/afa56b03-5c9d-4b21-8dc1-c4617bc29290.png)
 
 当然我相信聪明的你一般前几步就解决了自己的问题！
 
@@ -193,8 +193,6 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 安装了**node,npm,git**环境之后，在你的**vscode,webstorm终端或者是windows powershell**里依次输入**git --version，node -v，npm -v**来查看你的开发环境是否安装成功。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDRiYTRmMDBlMWE2NTAzNTdiNDU1YjAxMzkzOWQyOWNfYndPMmlJbDdvd3ZkQWNnbzZMWkN6ekw2QWtSb1JNMlhfVG9rZW46VWJkTGJkMmgwb2dUNTF4U2w1N2NleGJpblJmXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
-~~如图，输出版本号，**前三名发到QQ群的小灯**可以获得奶茶作为奖励，欢迎大家参与。~~
 
-**活动已截止，各位没有获奖的小灯可以等待后续的课程，我们仍会采取奖励的形式鼓励大家积极参与。**
+![cb58e814-db07-4dcb-913c-8416d777259e](https://raw.githubusercontent.com/Senyu2333/pic/master/cb58e814-db07-4dcb-913c-8416d777259e.png)
